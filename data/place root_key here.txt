@@ -1,0 +1,1 @@
+sectors must be more than 0x1000(2KB) bytes long and multiple of 0x200(0.5KB) bytes
