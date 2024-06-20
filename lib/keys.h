@@ -51,6 +51,8 @@ extern u8 seed_for_backup[0x10];
 
 extern u8 eid1_master_key[0x10];
 
+extern u8 eid1_master_key2[0x10];
+
 extern u8 zero_iv[0x10];
 
 extern u8 session_key_create_key[0x80];
