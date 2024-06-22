@@ -14,3 +14,10 @@ How to (EID/HDD/SYSCON)
 
 1. Compile the program
 2. Run the apropriate option by selecting the correspondent number
+
+How to (compile)
+
+1. clone it (git clone https://github.com/zecoxao/ps3_decrypt_tools)
+2. cd ps3_decrypt_tools
+3. make (requires make and gcc)
+4. ./decrypt_tools (select option from 1 to 5)
